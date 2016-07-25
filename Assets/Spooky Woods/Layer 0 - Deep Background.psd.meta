@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: bf2dbe26ab6441744845328206ef96e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Layer 0 - Deep Background_0
+    21300002: Layer 0 - Deep Background_1
+    21300004: Layer 0 - Deep Background_2
+    21300006: Layer 0 - Deep Background_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 0
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Layer 0 - Deep Background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1248
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0.23077393}
+        - {x: 0, y: -221.76923}
+        - {x: 256, y: -221.76923}
+        - {x: 256, y: 0.23077393}
+    - name: Layer 0 - Deep Background_1
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 1248
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0.23077393}
+        - {x: 0, y: -221.76923}
+        - {x: 256, y: -221.76923}
+        - {x: 256, y: 0.23077393}
+    - name: Layer 0 - Deep Background_2
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 1248
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0.23077393}
+        - {x: 0, y: -221.76923}
+        - {x: 256, y: -221.76923}
+        - {x: 256, y: 0.23077393}
+    - name: Layer 0 - Deep Background_3
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 0
+        width: 1248
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0.23077393}
+        - {x: 0, y: -221.76923}
+        - {x: 256, y: -221.76923}
+        - {x: 256, y: 0.23077393}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
